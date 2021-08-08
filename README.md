@@ -1,1 +1,1 @@
-# golang
+# storing golang excercises/projects
